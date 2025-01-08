@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">@ Frontend Developer</p>
+<h4 align="left">@ Frontend Developer</h4>
 
 ###
 
